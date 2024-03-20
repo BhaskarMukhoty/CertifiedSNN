@@ -1,6 +1,8 @@
 # CertifiedSNN
-Code for the paper: Certified Adversarial Robustness for Rate Encoded Spiking Neural Networks
-Citation:
+Code for the paper: **Certified Adversarial Robustness for Rate Encoded Spiking Neural Networks**
+
+
+**Citation:**
 @inproceedings{
 mukhoty2024certified,
 title={Certified Adversarial Robustness for Rate Encoded Spiking Neural Networks},
